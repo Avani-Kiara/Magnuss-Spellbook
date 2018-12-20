@@ -1,0 +1,60 @@
+img{
+    margin: 10px;
+}
+
+img.disapearium {
+    width: 250px;
+    height: 355px;  
+}
+img.magnus{
+    width: 455px;
+    height: 380px;
+    align-items: center;
+}
+
+img.ethereal{
+    width: 455px;
+    height: 380px;
+    align-items: center;
+}
+
+img.protector{
+    align-items: center;   
+}
+
+.Disaperium {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Angelirium {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 10px;
+}
+
+.protector{
+    height: 250px;
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    margin:20px;
+    text-align: center;
+    background: url("https://thumbs.gfycat.com/CheerfulMintyAlbino-max-1mb.gif") fixed center;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    color: #40575E;
+}
+
+button{
+    height:25px; 
+}
